@@ -1,2 +1,2 @@
-# python Data Science
-Pytorch Data Science 
+# Python Data Science
+Python Data Science
